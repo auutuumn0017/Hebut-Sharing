@@ -1,0 +1,2 @@
+Java is a powerful and versatile programming language for developing software running on mobile devices, desktop computers, and servers. 
+Java is simple , object oriented, distributed, interpreted, robust, secure, architecture neutral, portable, high performance, multithreaded, and dynamic. we can write a program once and run it anywhere.
