@@ -1,4 +1,7 @@
-# 河北工业大学课程共享计划 🚀
+<div align="center">
+  <img src="logo.jpg" alt="河北工业大学Logo" width="200" />
+  <h1>河北工业大学数据科学与大数据技术课程共享计划 🚀</h1>
+</div>
 
 > **前言**
 > 
